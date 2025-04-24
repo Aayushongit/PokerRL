@@ -1,6 +1,3 @@
-# Copyright (c) 2019 Eric Steinberger
-
-
 import unittest
 from unittest import TestCase
 
